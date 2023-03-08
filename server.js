@@ -16,6 +16,31 @@ const rappers = {
         'birthName': 'Chancelor Bennett',
         'birthLocation': 'Chicago, Illinois'
     },
+    'NF':{
+        'age': 32,
+        'birthName': 'Nathan John Feuerstein',
+        'birthLocation': 'Gladwin, Michigan'
+    },
+    'Futuristic':{
+        'age': 32,
+        'birthName': 'Zachary Lewis Beck',
+        'birthLocation': ' Bloomington, Illinois'
+    },
+    'Kanye West':{
+        'age': 46,
+        'birthName': 'Kanye Omari West',
+        'birthLocation': 'Atlanta, Georgia'
+    },
+    'Snoop Dogg':{
+        'age': 51,
+        'birthName': 'Calvin Cordozar Broadus Jr',
+        'birthLocation': 'Long Beach, California'
+    },
+    'Kendrick Lamar':{
+        'age': 36,
+        'birthName': 'Kendrick Lamar Duckworth',
+        'birthLocation': 'Compton, California'
+    },
     'dylan':{
         'age': 29,
         'birthName': 'Dylan',
